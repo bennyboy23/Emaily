@@ -6,6 +6,6 @@ module.exports = require('./prod');
 
 }else{
 //return dev keys
-    moduel.exports = require('./dev');
+    module.exports = require('./dev');
 
 }
